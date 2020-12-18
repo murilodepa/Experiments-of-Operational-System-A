@@ -1,2 +1,6 @@
-# Experimentos de Sistemas Operacionais A
-## Todos os projetos práticos desenvolvido na disciplina de Sistema Operacional A.
+# Experiments of Operational System A
+
+## All practical projects developed in the discipline of Operational System A.
+
+### Contributions:
+* Contributions and improvements are always welcome.
